@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("Counter-demo App"),
+        title: Text("Counter App"),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
